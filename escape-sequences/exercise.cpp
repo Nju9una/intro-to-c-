@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    
+    cout << "        ---------------            "<< endl;                                 
     cout << "     __|              |     0    0 " << endl;
     cout << "    /_________________|    /|/  /|/ " << endl;
     cout << "    |   |       |   |       |    |  "<< endl;
